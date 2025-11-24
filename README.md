@@ -120,6 +120,7 @@ Screenshots of the final dashboard visuals are included in the `/images` directo
 
 ## 📁 Repository Structure
 /images/ # dashboard screenshots
+
 README.md # project documentation
 
 ## 🎯 Purpose of This Project
